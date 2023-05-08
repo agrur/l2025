@@ -1,3 +1,5 @@
+package lesson2;
+
 public class PriorityDemo {
     public static void main(String[] args) {
         boolean b1 = true, b2 = true, b3 = false;
