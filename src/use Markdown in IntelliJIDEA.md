@@ -16,7 +16,6 @@ Markdown формат зручний своєю універсальністю. 
 Рекомендовані наступні плагіни для IntelliJIDEA:
 
 - [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown)
-- [plugins.jetbrains.com/plugin/14683-gfma](https://plugins.jetbrains.com/plugin/14683-gfma/versions/stable)
 - [plugins.jetbrains.com/plugin/17254-markdown-editor/](https://plugins.jetbrains.com/plugin/17254-markdown-editor/versions#tabs)
 
 ## Basic Markdown
